@@ -1,7 +1,7 @@
-hero_env
+Marvel
 
 __pycache__
 .DS_Store
-.hero_env
+.env
 .gitignore
 migrations
