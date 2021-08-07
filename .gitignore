@@ -1,7 +1,0 @@
-hero_env
-
-__pycache__
-.DS_Store
-.hero_env
-.gitignore
-migrations
